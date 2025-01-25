@@ -6,8 +6,7 @@ public class JavaExercises {
     /** Returns an array [1, 2, 3, 4, 5, 6] */
     public static int[] makeDice() {
         // TODO: Fill in this function.
-        int[]a={1,2,3,4,5,6};
-        return a;
+        return new int[]{1,2,3,4,5,6};
     }
 
     /** Returns the order depending on the customer.
